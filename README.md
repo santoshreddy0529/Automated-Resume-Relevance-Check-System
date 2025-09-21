@@ -1,5 +1,4 @@
 # Automated-Resume-Relevance-Check-System
-Automated Resume Relevance Check System - Complete Flask web app automates resume screening with PDF/DOCX parsing, weighted scoring (Skills 40%, Experience 30%, Education 30%), skill gap analysis, High/Medium/Low verdicts, personalized feedback, and analytics dashboard. Includes live demo and production-ready code.
 
 Automated Resume Relevance Check System
 A complete Flask web application for Innomatics Research Labs Hackathon that automates resume screening, scoring, and candidate evaluation against job requirements.
@@ -41,7 +40,6 @@ text
 python run.py
 or use start.bat (Windows) or start.sh (Linux/Mac).
 
-Open your browser and go to http://localhost:5000.
 
 Project Structure
 text
